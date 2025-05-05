@@ -14,7 +14,7 @@
 **Submitted By:**
 * **Name:** MD. REZWAN ZANI
 * **ID:** 24024021
-* **Dept.:** AE Avionics Engineering
+* **Dept.:** Avionics Engineering
 * **Batch:** 04
 
 **Submitted To:**
