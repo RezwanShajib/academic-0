@@ -1,11 +1,12 @@
-# Assignment
+#Aviation and Aerospace University, Bangladesh
+
+## Assignment
 
 **Course Name:** Computer Application and Programming
 **Course Code:** CSE 4201
 
-**Aviation and Aerospace University, Bangladesh**
 
-## Topics Explored:
+### Topics Explored:
 
 1.  **Matrix Multiplication:** Implementation of a function to compute the product of two matrices represented as 2D arrays.
 2.  **Primality Test:** Development of a function to efficiently determine if a given number is prime.
