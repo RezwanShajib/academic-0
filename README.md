@@ -3,7 +3,7 @@
 ## Assignment
 
 **Course Name:** Computer Application and Programming
-**Course Code:** CSE 4201
+(**Course Code:** CSE 4201)
 
 
 ### Topics Explored:
